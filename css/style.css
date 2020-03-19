@@ -1,0 +1,25 @@
+.clase1 {
+    background-color: aquamarine;
+}
+
+.clase2 {
+    background-color: bisque;
+    border: 1px solid black;
+}
+
+.clase3 {
+    background-color: coral;
+    font-size: 24px;
+}
+
+#division {
+    background-color: azure;
+    border: 1px solid black;
+}
+
+table, tbody, tr, td {
+    border: 1px solid black;
+    background-color: aquamarine;
+    font-size: 20px;
+    margin: auto;
+}
